@@ -1,0 +1,3 @@
+# Specify attributes for files or paths in the repository
+*.txt   text
+*.bin   -text
