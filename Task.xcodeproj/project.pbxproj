@@ -11,6 +11,7 @@
 		C64C3A612CA02DAE006539FF /* RealmSwift in Embed Frameworks */ = {isa = PBXBuildFile; productRef = C64C3A5F2CA02DAE006539FF /* RealmSwift */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		C64C3A752CA0C2FF006539FF /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = C64C3A742CA0C2FF006539FF /* RealmSwift */; };
 		C64C3A762CA0C2FF006539FF /* RealmSwift in Embed Frameworks */ = {isa = PBXBuildFile; productRef = C64C3A742CA0C2FF006539FF /* RealmSwift */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		C64C3A792CA0CC3C006539FF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C64C3A782CA0CC3C006539FF /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		C64C39F02C9DB988006539FF /* TaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C64C39FA2C9DB988006539FF /* TaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C64C3A6B2CA0C267006539FF /* ProjecctTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjecctTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C64C3A782CA0CC3C006539FF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -132,6 +134,7 @@
 		C64C39D12C9DB987006539FF = {
 			isa = PBXGroup;
 			children = (
+				C64C3A782CA0CC3C006539FF /* README.md */,
 				C64C39DC2C9DB987006539FF /* Task */,
 				C64C3A6C2CA0C267006539FF /* ProjecctTests */,
 				C64C3A5E2CA02DAE006539FF /* Frameworks */,
@@ -327,6 +330,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C64C3A792CA0CC3C006539FF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
